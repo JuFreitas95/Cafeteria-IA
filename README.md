@@ -1,51 +1,58 @@
  ☕ Cafeteria IA
 
-Interface de cafeteria com integração de atendente virtual automatizado utilizando IA, simulando um fluxo real de atendimento ao cliente.
+Interface de cafeteria com integração de atendente virtual automatizado utilizando Inteligência Artificial, simulando um fluxo real de atendimento ao cliente.
+
+🔗 Acesse o projeto: https://cafeteria-ia-zkuo.vercel.app/
 
 🧠 Sobre o projeto
 
-O Cafeteria IA é uma aplicação frontend que simula o ambiente de uma cafeteria digital, integrada a um atendente virtual automatizado.
+ É um projeto prático desenvolvido com foco em aprendizado e experimentação de integração entre aplicações web e Inteligência Artificial.
 
-A proposta do projeto é unir interface de usuário com automação inteligente, proporcionando uma experiência interativa no processo de atendimento, como sugestões de pedidos, respostas automáticas e simulação de conversa com o cliente.
+A aplicação simula uma cafeteria digital com um atendente virtual automatizado, permitindo interações com o usuário por meio de IA, como sugestões de pedidos e respostas dinâmicas.
 
-🚀 Tecnologias
+Apesar de possuir uma interface simples, o principal objetivo do projeto foi compreender na prática como integrar automações com ferramentas como **GPT Maker** e **N8N**, simulando um cenário real de atendimento ao cliente.
 
-* HTML
-* CSS
-* JavaScript
-* Integração com automação (GPT Maker / N8N)
+Este projeto representa a evolução do uso de **HTML, CSS e JavaScript**, indo além da interface e explorando comunicação com serviços externos e automações inteligentes.
+
+
+🎯 Objetivo
+
+Este projeto foi desenvolvido com o objetivo de:
+
+- Praticar HTML, CSS e JavaScript na construção de interfaces
+- Entender a integração com automações utilizando IA
+- Simular um cenário real de atendimento ao cliente
+- Explorar ferramentas como GPT Maker e N8N
+
+
+ 🚀 Tecnologias
+
+- HTML  
+- CSS  
+- JavaScript  
+- Integração com automações (GPT Maker / N8N)
+
 
  ⚙️ Funcionalidades
 
-* ✔️ Interface de cafeteria (cardápio / pedidos)
-* ✔️ Simulação de atendimento automatizado
-* ✔️ Interação com usuário via IA
-* ✔️ Interface responsiva
-
- 🤖 Automação com IA
-
-O projeto conta com integração de um atendente virtual, capaz de:
-
-* Sugerir produtos
-* Responder interações do usuário
-* Simular um fluxo de atendimento real
+- ✔️ Interface de cafeteria (cardápio / pedidos)  
+- ✔️ Simulação de atendimento automatizado  
+- ✔️ Interação com usuário via IA  
+- ✔️ Interface responsiva  
 
 
-📌 Próximas melhorias
+## 🤖 Automação com IA
 
-* 🔄 Integração mais avançada com IA
-* 🧠 Personalização do atendimento
-* 📊 Painel administrativo
-* 🔐 Integração com backend
+O projeto conta com integração de um atendente virtual capaz de:
 
- 📈 Aprendizados
+- Sugerir produtos  
+- Responder interações do usuário  
+- Simular um fluxo de atendimento real
 
-* Integração entre frontend e automações com IA
-* Criação de interfaces interativas
-* Estruturação de projetos com foco em experiência do usuário
+⚠️ Observações
 
-
-
+Este projeto tem foco em aprendizado técnico e experimentação com Inteligência Artificial.  
+O design foi mantido simples propositalmente, priorizando a funcionalidade e a integração com automações.
 
 
 <img src="https://github.com/JuFreitas95/Cafeteria-IA/blob/main/readme/Captura%20de%20tela%202025-11-15%20155951.png?raw=true">
